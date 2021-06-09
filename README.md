@@ -1,3 +1,5 @@
 # Tic-Tac-Toe-Game
 
-This is a two player game of tic tac toe where the first move is 'X'. After the end of each round, players can restart the match wherein the cells are cleared of their initial value.
+A two-player game of Tic Tac Toe, developed as an Android app. The app will run on devices with Android versions above 4.4.
+
+<img src = "sample-start.png">
