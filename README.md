@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Game
+# Tic-Tac-Toe
 
 A two-player game of Tic Tac Toe, developed as an Android app. The app will run on devices with Android versions above 4.4.
 <br>
